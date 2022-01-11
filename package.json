@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "https://avbalajee.github.io/welcome/",
+  "homepage": "https://avbalajee.github.io/hi/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
