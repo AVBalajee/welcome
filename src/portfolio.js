@@ -298,7 +298,7 @@ const certifications = {
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/certificate/7CLKDQUCYA35",
       alt_name: "Google",
-       color_code: "#FFFFFF",
+       color_code: "#00CCCC",
       //color_code: "#47A048",
     },
     {
@@ -308,7 +308,7 @@ const certifications = {
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/YUFBLENYRBDN",
       alt_name: "Google Cloud",
-      color_code: "#FFFFFF",
+      color_code: "#00CCCC",
     },
     {
       title: "SAS Advanced Programmer",
@@ -345,7 +345,7 @@ const certifications = {
       certificate_link:
         "https://app.cybrary.it/courses/api/certificate/CC-21f73c20-d820-4941-8b82-dce93a374997/view",
       alt_name: "Cybrary",
-      color_code: "#FFFFFF",
+      color_code: "#00CCCC",
     },
     
     // color_code: "#8C151599",
