@@ -1,8 +1,10 @@
 # <a href="https://avbalajee.github.io/hi/">My Website</a>
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVBalajee)
 [![Author](https://img.shields.io/badge/Author-Balajee%20A%20V-red)](https://www.linkedin.com/in/balajeevg-techclog/)
-<img src="https://github.com/AVBalajee/welcome/blob/master/public/imagee.JPG" />
-
+<br>
+<img src="https://github.com/AVBalajee/welcome/blob/master/src/assests/images/ezgif.com-gif-maker.gif" />
+# Well Optimized with Google SEO
+<img src="https://github.com/AVBalajee/welcome/blob/master/src/assests/images/SEO.JPG" />
 
 # Languages and tools
 - <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
