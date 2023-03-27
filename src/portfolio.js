@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Engineer, Open Source Programmer 🔥. Sometimes learning.",
   resumeLink:
-    "https://cutt.ly/My-Resume",
+    "https://cutt.ly/Balajee-Resume",
   mail: "mailto:balajeevg@gmail.com",
 };
 
